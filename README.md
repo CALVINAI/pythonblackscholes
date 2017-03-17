@@ -1,2 +1,3 @@
 # pythonblackscholes
-# Tested by the method of abramowitz and stegun
+# The most famous formula in options and derivatives world 
+# Tested by the method in abramowitz and stegun book
